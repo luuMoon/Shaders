@@ -1,3 +1,7 @@
 # Shaders
 常用Shader
-Anim: UV偏移、流光等
+
+
+* Anim: UV偏移、流光等
+* Occlude: 遮挡
+
