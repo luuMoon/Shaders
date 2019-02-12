@@ -6,5 +6,5 @@
 * Occlude: 遮挡
 * HSV: hsv转化
 * Distortion: 扭曲
-
+* Blur: 后处理_模糊
 
